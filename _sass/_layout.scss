@@ -1,13 +1,17 @@
 /**
  * Site header
  */
-.site-header {
+body > header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
 
 .site-title {
@@ -93,7 +97,7 @@
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    padding: 1em 0;
 }
 
 .footer-heading {
@@ -234,3 +238,38 @@
         }
     }
 }
+
+
+nav.main-menu{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: stretch;
+}
+
+nav.main-menu .row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: stretch;
+}
+
+nav.main-menu a{
+    border: 1px solid grey;
+    flex: 1;
+    text-align: center;
+    height: 40vh;
+    line-height: 100%;
+    
+    font-size: 3em;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
