@@ -7,7 +7,7 @@ layout: default
 Le projet CollegeBox est un projet super cool fait par le Conseil Départemental des Jeunes en partenariat avec CapScience et d'autres gens cool !
 
 ## le boitier
-Conçu au départ avec une découpeuse laser, le boîtier qui enserre la tablette a été réalisé avec une fraiseuse numérique en prenant en compte dans la réflexion les futires contraintes permettant d'envisager son déploiement dans les collèges
+Conçu au départ avec une découpeuse laser, le boîtier qui enserre la tablette a été réalisé avec une fraiseuse numérique en prenant en compte dans la réflexion les futures contraintes permettant d'envisager son déploiement dans les collèges
 Le calcul des dimensions a donc du prendre en compte la nécessité d'accéder à la tablette pour la mettre à jour, insérer une carte SD
 hauteur de 46mm
 logiciel aspire
