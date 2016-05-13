@@ -14,6 +14,16 @@ body > header {
     justify-content: space-around;
 }
 
+p{
+    text-align: justify;
+    text-indent: 2em;
+}
+
+img{
+    display: block;
+}
+
+
 .site-title {
     font-size: 26px;
     line-height: 56px;
@@ -240,36 +250,104 @@ body > header {
 }
 
 
+
+$cdj33-color-1:       #1D6FB8;
+$cdj33-color-2:       #3EB398;
+$cdj33-color-3:       #38A935;
+$cdj33-color-4:       #009F9A;
+
+h1{
+    color: $cdj33-color-3;
+}
+h2{
+    color: $cdj33-color-4;
+}
+
 nav.main-menu{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     align-items: stretch;
-}
-
-nav.main-menu .row{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: stretch;
-}
-
-nav.main-menu a{
-    border: 1px solid grey;
-    flex: 1;
-    text-align: center;
-    height: 40vh;
-    line-height: 100%;
     
-    font-size: 3em;
+    .row{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: stretch;
+        
+        &:nth-child(3n+1){
+            a:nth-of-type(4n+1){
+                background-color: $cdj33-color-1;
+            }
+
+            a:nth-of-type(4n+2){
+                background-color: $cdj33-color-2;
+            }
+
+            a:nth-of-type(4n+3){
+                background-color: $cdj33-color-3;
+            }
+
+            a:nth-of-type(4n){
+                background-color: $cdj33-color-4;
+            }
+        }
+        
+        &:nth-child(3n+2){
+            a:nth-of-type(4n+1){
+                background-color: $cdj33-color-3;
+            }
+
+            a:nth-of-type(4n+2){
+                background-color: $cdj33-color-2;
+            }
+
+            a:nth-of-type(4n+3){
+                background-color: $cdj33-color-4;
+            }
+
+            a:nth-of-type(4n){
+                background-color: $cdj33-color-1;
+            }
+        }
+        
+        &:nth-child(3n+2){
+            a:nth-of-type(4n+1){
+                background-color: $cdj33-color-3;
+            }
+
+            a:nth-of-type(4n+2){
+                background-color: $cdj33-color-4;
+            }
+
+            a:nth-of-type(4n+3){
+                background-color: $cdj33-color-1;
+            }
+
+            a:nth-of-type(4n){
+                background-color: $cdj33-color-2;
+            }
+        }
+    }
     
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
+    a{
+        text-align: center;
+        
+        line-height: 100%;
+        font-size: 3em;
+        color: white;
+        
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        height: 40vh;
+        flex: 1;
+
+    }
+    
+    
 }
-
-
 
 
 
