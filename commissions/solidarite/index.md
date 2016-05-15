@@ -1,4 +1,4 @@
 ---
 layout: post
-Title: page d'accueil commission solidarité
+Title: "page d'accueil commission solidarité"
 ---
