@@ -27,8 +27,7 @@ Réalisation d’un guide pour l’organisation d’une journée « Développeme
 Création de trois spots radio publicitaires dont l’objectif est de sensibiliser à la question de la protection de l’environnement.
 Pour écouter les spots, cliquez sur les liens suivants :
 
-* [Le gaspillage y'en a marre, agissons !]
-<iframe width="560" height="115" src="http://www.gironde.fr/jcms/c_10779/gaspillage" frameborder="0" allowfullscreen></iframe> 
+* <audio controls><source src="http://www.gironde.fr/jcms/c_10779/gaspillage/cgj_gaspillagev2.mp3" type="audio/mpeg">Le gaspillage y'en a marre, agissons !</audio>  
 * [Arrêtez de jeter vos mégots partout, ça pollue !](http://www.gironde.fr/jcms/c_13905/stop-aux-megots)
 * [Les transports en commun, une solution pour demain !](http://www.gironde.fr/jcms/c_9194/cgj-transportv2)
 
