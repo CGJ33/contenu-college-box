@@ -13,11 +13,17 @@ Le groupe Solidarité, Droits de l'enfant et humanitaire a voulu faire passer un
 
 ## 2012-2013
 
-Le groupe Solidarité, Droits de l'enfant et humanitaire a réalisé une vidéo [Du coeur au ventre](https://www.youtube.com/watch?v=05r8EHYJVdI), afin de sensibiliser les jeunes à la lutte contre les discriminations.
+Le groupe Solidarité, Droits de l'enfant et humanitaire a réalisé une vidéo "Du coeur au ventre", afin de sensibiliser les jeunes à la lutte contre les discriminations.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/05r8EHYJVdI?rel=0" frameborder="0" allowfullscreen></iframe> 
+
 
 ## 2011-2012
 
-Le groupe Solidarité, Droits de l'enfant et humanitaire a créé une [vidéo parodie de Bref](https://www.youtube.com/watch?v=L-5YaGO1NQ0&index=7) sur le thème du bénévolat, afin de sensibiliser les collégiens à cette démarche.
+Le groupe Solidarité, Droits de l'enfant et humanitaire a créé une vidéo parodie de Bref sur le thème du bénévolat, afin de sensibiliser les collégiens à cette démarche.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L-5YaGO1NQ0?index=7&rel=0" frameborder="0" allowfullscreen></iframe> 
+
 
 ## 2010-2011
 

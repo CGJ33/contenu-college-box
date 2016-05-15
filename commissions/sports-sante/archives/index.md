@@ -23,7 +23,9 @@ Le groupe Sports a réalisé un [Jeu-Quizz](http://www.gironde.fr/jcms/c_13343/q
 
 ## 2009-2010
 
-Le groupe a réalisé un [court-métrage](https://www.youtube.com/watch?v=tR7v5ymdH08) « Le sport au second degré » sur les dotations départementales et l’accès aux équipements sportifs des collèges, pour expliquer les disparités éventuelles entre les établissements scolaires.
+Le groupe a réalisé un court-métrage « Le sport au second degré » sur les dotations départementales et l’accès aux équipements sportifs des collèges, pour expliquer les disparités éventuelles entre les établissements scolaires.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tR7v5ymdH08?rel=0" frameborder="0" allowfullscreen></iframe> 
 
 ## 2008-2009
 
