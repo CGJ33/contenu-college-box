@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: Travaux de la commission Solidarités, lutte contre les discriminations
+Title: "Travaux de la commission Solidarités, lutte contre les discriminations"
 ---
 
 ## 2014-2015

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Travaux de la commission Médias et usages numériques
+title: "Travaux de la commission Médias et usages numériques"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-Title : Travaux de la commission Sports et santé
+Title : "Travaux de la commission Sports et santé"
 ---
 
 ## 2014-2015

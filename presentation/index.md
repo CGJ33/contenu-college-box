@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: post
+Title : "Présentation projet college box"
 ---
-
-# Présentation projet college box
 
 Le projet CollegeBox est un projet super cool fait par le Conseil Départemental des Jeunes en partenariat avec CapScience et d'autres gens cool !
 

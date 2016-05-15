@@ -1,4 +1,4 @@
 ---
 layout: post
-title: page d'accueil commission media et usages numériques
+title: "page d'accueil commission media et usages numériques"
 ---
