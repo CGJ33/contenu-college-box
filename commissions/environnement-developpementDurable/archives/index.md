@@ -47,22 +47,20 @@ Le groupe Environnement - Développement Durable a réfléchi sur le thème du g
 
 Le groupe Environnement - Développement Durable a réalisé une vidéo qui retrace l'ensemble du travail de découverte des paysages des rives de la Garonne mené par les jeunes élus en collaboration avec l'Ecole Nationale Supérieure d'Architecture et du Paysage. Ce DVD peut être mis à la disposition des enseignants qui souhaitent sensibiliser leurs élèves à la question paysagère.
 
-<noscript>
-    <div class="playerVideo">
-        
-        <object height="240" width="320" type="application/x-shockwave-flash" class="playerVideo" data="http://www.gironde.fr/plugins/CG33Types/swf/jwplayer/player.swf" id="playerFlash_c_18732" style="visibility: visible;" tabindex="0">
-            <param name="movie" value="http://www.gironde.fr/plugins/CG33Types/swf/jwplayer/player.swf" />
-            <param name="allowFullScreen" value="true" />
-            <param name="bgColor" value="#000000" />
-            
-            <param name="flashvars" value="id=playerFlash_c_18732&amp;file=http://cg33.systonic.net/WebTV/paysage_rives_garonne.flv&amp;plugins=backstroke-1&amp;" />
-            
-              <param name="wmode" value="transparent" />
-            
-            Paysages : les rives de Garonne
-        </object>
-    </div>
-</noscript>
+<div class="playerVideo">
+
+<object height="240" width="320" type="application/x-shockwave-flash" class="playerVideo" data="http://www.gironde.fr/plugins/CG33Types/swf/jwplayer/player.swf" id="playerFlash_c_18732" style="visibility: visible;" tabindex="0">
+    <param name="movie" value="http://www.gironde.fr/plugins/CG33Types/swf/jwplayer/player.swf" />
+    <param name="allowFullScreen" value="true" />
+    <param name="bgColor" value="#000000" />
+    
+    <param name="flashvars" value="id=playerFlash_c_18732&amp;file=http://cg33.systonic.net/WebTV/paysage_rives_garonne.flv&amp;plugins=backstroke-1&amp;" />
+    
+      <param name="wmode" value="transparent" />
+    
+    Paysages : les rives de Garonne
+</object>
+</div>
 
 ## 2005-2006
 
