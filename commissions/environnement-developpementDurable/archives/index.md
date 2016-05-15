@@ -52,7 +52,7 @@ Le groupe Environnement - Développement Durable a réalisé [une vidéo](http:/
 Le groupe Environnement - Développement Durable a réalisé deux vidéos sur les thématiques du chewing-gum et des objets jetables en collaboration avec l'association Les Petits Débrouillards, le collège Cheverus et le Centre social et culturel Saint-Pierre (Espace Culture Multimédia).
 
 * [Chewing-gum](http://www.gironde.fr/jcms/c_9270/chewing-gum) (format Windows Media Video)
-* {[Objets Jetables](http://www.gironde.fr/jcms/c_12485/objets-jetables) (format Windows Media Video)
+* [Objets Jetables](http://www.gironde.fr/jcms/c_12485/objets-jetables) (format Windows Media Video)
 
 ##2000-2001
 
