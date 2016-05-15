@@ -6,7 +6,13 @@
 
 
 // Our variables
-@import url(https://fonts.googleapis.com/css?family=Lato);
+@font-face {
+   font-family: 'Lato';
+   font-style: normal;
+   font-weight: 400;
+   src: local('Lato Regular'), local('Lato-Regular'),
+url(../fonts/Lato-Regular.woff) format('woff');
+}
 
 $base-font-family: 'Lato', Helvetica, Arial, sans-serif;
 $base-font-size:   13px;
