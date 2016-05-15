@@ -9,7 +9,9 @@ Le groupe « Sports et santé » a présenté plusieurs aménagements sportifs e
 
 ## 2012-2013
 
-Le groupe Sports a été retenu, dans le cadre d’un appel à projets national (Sénat, Ministère des sports, de la jeunesse, de l’éducation populaire et de la vie associative, Ligue nationale de rugby, Fédération française de rugby, AFCAM, La Poste, Crédit mutuel), autour de la thématique « Sport et citoyenneté ». Dans ce cadre, il s’est agi de réaliser [une vidéo de promotion "L'esprit du jeu"](https://www.youtube.com/watch?v=2YZGiIcxvxE) des comportements respectueux et citoyens sur le terrain et hors du terrain.
+Le groupe Sports a été retenu, dans le cadre d’un appel à projets national (Sénat, Ministère des sports, de la jeunesse, de l’éducation populaire et de la vie associative, Ligue nationale de rugby, Fédération française de rugby, AFCAM, La Poste, Crédit mutuel), autour de la thématique « Sport et citoyenneté ». Dans ce cadre, il s’est agi de réaliser une vidéo de promotion "L'esprit du jeu" des comportements respectueux et citoyens sur le terrain et hors du terrain.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2YZGiIcxvxE?rel=0" frameborder="0" allowfullscreen></iframe> 
 
 ## 2011-2012
 
