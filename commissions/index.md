@@ -46,13 +46,13 @@ Vous pouvez découvrir les comptes-rendus des travaux de l'année 2016 de chacun
 * [sport et santé](sports-sante/index.md)
 * [environnement](environnement-developpementDurable/index.md)
 * [solidarité](solidarite/index.md)
-* [arts et culture](art-culture-citoyennete/index.html)
-* [médias et usages numériques](media-usages-numerique/index.html)
+* [arts et culture](art-culture-citoyennete/index.md)
+* [médias et usages numériques](media-usages-numerique/index.md)
 * 
 Vous pouvez également consulter les archives des travaux de chacune de ces commissions :
 
 * [sport et santé](sports-sante/archives/index.md)
 * [environnement](environnement-developpementDurable/archives/index.md)
 * [solidarité](solidarite/archives/index.md)
-* [arts et culture](art-culture-citoyennete/archives/index.html)
-* [médias et usages numériques](media-usages-numerique/archives/index.html)
+* [arts et culture](art-culture-citoyennete/archives/index.md)
+* [médias et usages numériques](media-usages-numerique/archives/index.md)
