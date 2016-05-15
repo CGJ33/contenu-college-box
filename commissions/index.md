@@ -29,29 +29,30 @@ ci-dessous et explique en quelques lignes ton projet :
 
 Pour t’aider dans ta campagne électorale, un adulte référent du collège t’accompagne.
 Il le fera durant tout l’exercice de ton mandat, pour rendre compte régulièrement à tes camarades du travail réalisé au sein du Conseil Départemental des Jeunes.
-<img src="../images/CDJ2015-logo.jpg">
-<a href="../documents/livret_CDJ-DER.pdf">le livret</a>
- 
-<h2>Elections</h2>
-<h2>Mandat</h2>
-<h2>Commissions</h2>
-<p>Les conseillers départementaux du Conseil départemental des Jeunes de Gironde, élus pour un mandat d'un an se répartissent en commissions pour travailler sur des projets dont ils sont à l'initiative.</p>
-<h2>Fonctionnement</h2>
-<p>Lors de la séance inaugurale, les collégiens se répartissent au sein des différentes commissions proposées et élaborent ensemble leur projet pour l'année en compagnie d'animateurs issus de l'éducation nationale ou du Conseil départemental de la Gironde</p>
-<p>Vous pouvez découvrir les comptes-rendus des travaux de l'année 2016 de chacune des 6 commissions : 
-<ul>
-<li>environnement</li>
-<li>sport et santé</li>
-<li>solidarité</li>
-<li>arts et culture</li>
-<li>médias et usages numériques</li>
-</ul>
-</p>
-<p>Vous pouvez également consulter les archives des travaux de chacune de ces commissions :
-<ul>
-	<li><a href="environnement-developpementDurable/archives/index.html">environnement</a></li>
-	<li><a href="sports-sante/archives/index.html">sport et santé</a></li>
-	<li><a href="solidarite/archives/index.html">solidarité</a></li>
-	<li><a href="art-culture-citoyennete/archives/index.html">arts et culture</a></li>
-	<li><a href="media-usages-numerique/archives/index.html">médias et usages numériques</a></li>
-</ul></p>
+
+
+## Elections
+## Mandat
+## Commissions
+
+Les conseillers départementaux du Conseil départemental des Jeunes de Gironde, élus pour un mandat d'un an se répartissent en commissions pour travailler sur des projets dont ils sont à l'initiative.
+
+## Fonctionnement
+
+Lors de la séance inaugurale, les collégiens se répartissent au sein des différentes commissions proposées et élaborent ensemble leur projet pour l'année en compagnie d'animateurs issus de l'éducation nationale ou du Conseil départemental de la Gironde
+
+Vous pouvez découvrir les comptes-rendus des travaux de l'année 2016 de chacune des 6 commissions : 
+
+* [sport et santé](sports-sante/index.md)
+* [environnement](environnement-developpementDurable/index.md)
+* [solidarité](solidarite/index.md)
+* [arts et culture](art-culture-citoyennete/index.html)
+* [médias et usages numériques](media-usages-numerique/index.html)
+* 
+Vous pouvez également consulter les archives des travaux de chacune de ces commissions :
+
+* [sport et santé](sports-sante/archives/index.md)
+* [environnement](environnement-developpementDurable/archives/index.md)
+* [solidarité](solidarite/archives/index.md)
+* [arts et culture](art-culture-citoyennete/archives/index.html)
+* [médias et usages numériques](media-usages-numerique/archives/index.html)
