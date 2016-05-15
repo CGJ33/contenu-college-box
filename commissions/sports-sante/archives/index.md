@@ -1,0 +1,32 @@
+---
+layout: post
+Title : Travaux de la commission Sports et santé
+---
+
+## 2014-2015
+
+Le groupe « Sports et santé » a présenté plusieurs aménagements sportifs existants sur Open Street map. Découvrez leur présentation et leur projet sur Open Street map en [cliquant ici](http://www.gironde.fr/jcms/cgw_81142/cdj-2015-commission-sports-et-sante).
+
+## 2012-2013
+
+Le groupe Sports a été retenu, dans le cadre d’un appel à projets national (Sénat, Ministère des sports, de la jeunesse, de l’éducation populaire et de la vie associative, Ligue nationale de rugby, Fédération française de rugby, AFCAM, La Poste, Crédit mutuel), autour de la thématique « Sport et citoyenneté ». Dans ce cadre, il s’est agi de réaliser [une vidéo de promotion "L'esprit du jeu"](https://www.youtube.com/watch?v=2YZGiIcxvxE) des comportements respectueux et citoyens sur le terrain et hors du terrain.
+
+## 2011-2012
+
+Le groupe Sports a réalisé « Ze guide », relatif aux sports de nature qui peuvent être pratiqués dans le périmètre géographique des collèges girondins. Les premières fiches sont celles des collèges d’Andernos et de Lège Cap-Ferret. Cette action s’inscrit dans la compétence départementale des sports de nature (Commission Départementale des Espaces, Sites et Itinéraires). [Consultez les premières fiches](http://www.gironde.fr/jcms/c_16032/ze-guide-exemple-college-andernos).
+
+## 2010-2011
+
+Le groupe Sports a réalisé un [Jeu-Quizz](http://www.gironde.fr/jcms/c_13343/quizz-cgj-sport-et-sante) pour sensibiliser les jeunes aux bienfaits de la pratique du sport.
+
+## 2009-2010
+
+Le groupe a réalisé un [court-métrage](https://www.youtube.com/watch?v=tR7v5ymdH08) « Le sport au second degré » sur les dotations départementales et l’accès aux équipements sportifs des collèges, pour expliquer les disparités éventuelles entre les établissements scolaires.
+
+## 2008-2009
+
+Le groupe Sports a participé à l’organisation du [Raid nature collégiens](http://www.gironde.fr/jcms/c_9190/cgj-commission-sport-2009) qui a eu lieu le 10 juin 2009 au Domaine départemental Gérard LAGORS, à Hostens (voir sur [osm](http://osm.org/go/b~_QazMB-?layers=T&node=736905926). Vous pouvez également découvrir une [galerie photos](http://cg33.systonic.net/galeries/raid_nature/index.html) du Raid nature collégiens. Ils ont également rencontré une sportive de haut niveau, Myriam Borg-Korfanty. Vous pouvez [consulter la vidéo](http://cg33.systonic.net/myriam_borg.htm) de cette rencontre.
+
+## 2005-2006
+
+Le groupe Sports a réalisé un [livret d'informations](http://www.gironde.fr/jcms/c_11966/livret-information) et un jeu pour s’informer en s’amusant sur les bonnes pratiques et l’hygiène de vie liées au sport. Se joue à partir de 13 ans, de 3 à 6 joueurs. Pour jouer, télécharger et imprimer la [règle du jeu](http://www.gironde.fr/jcms/c_13509/regle-jeu-sportif) ainsi que les [planches de plateaux et de cartes à jouer](http://www.gironde.fr/jcms/c_12958/plateau-jeu). Pour pour chacune des cartes, imprimer le nombre d’exemplaires indiqué. Astuce : pour les rigidifier, les plastifier ou les imprimer sur du bristol. Découper ensuite les cartes.
