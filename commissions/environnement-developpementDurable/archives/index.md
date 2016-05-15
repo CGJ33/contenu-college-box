@@ -8,7 +8,7 @@ categories: archives
 ## 2014-2015
 
 Le groupe Environnement, Développement Durable a réalisé un reportage vidéo sur les questions du dérèglement climatique et de la biodiversité en péril.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zusar7TQyss%20?rel=0" frameborder="0" allowfullscreen></iframe>   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zusar7TQyss?rel=0" frameborder="0" allowfullscreen></iframe>   
 
 ## 2013-2014
 
