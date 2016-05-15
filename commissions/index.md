@@ -43,16 +43,16 @@ Lors de la séance inaugurale, les collégiens se répartissent au sein des diff
 
 Vous pouvez découvrir les comptes-rendus des travaux de l'année 2016 de chacune des 6 commissions : 
 
-* [sport et santé](sports-sante/index.md)
-* [environnement](environnement-developpementDurable/index.md)
-* [solidarité](solidarite/index.md)
-* [arts et culture](art-culture-citoyennete/index.md)
-* [médias et usages numériques](media-usages-numerique/index.md)
-* 
+* [sport et santé](sports-sante/)
+* [environnement](environnement-developpementDurable/)
+* [solidarité](solidarite/)
+* [arts et culture](art-culture-citoyennete/)
+* [médias et usages numériques](media-usages-numerique/)
+
 Vous pouvez également consulter les archives des travaux de chacune de ces commissions :
 
-* [sport et santé](sports-sante/archives/index.md)
-* [environnement](environnement-developpementDurable/archives/index.md)
-* [solidarité](solidarite/archives/index.md)
-* [arts et culture](art-culture-citoyennete/archives/index.md)
-* [médias et usages numériques](media-usages-numerique/archives/index.md)
+* [sport et santé](sports-sante/archives/)
+* [environnement](environnement-developpementDurable/archives/)
+* [solidarité](solidarite/archives/)
+* [arts et culture](art-culture-citoyennete/archives/)
+* [médias et usages numériques](media-usages-numerique/archives/)
