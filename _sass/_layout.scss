@@ -23,10 +23,14 @@ img{
     display: block;
 }
 
+a:hover{
+    text-decoration : none;
+}
+
 
 .site-title {
     font-size: 26px;
-    line-height: 56px;
+    line-height: 36px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
@@ -105,10 +109,21 @@ img{
 /**
  * Site footer
  */
+#logo-cd33 {
+  background-image: url(../images/logocd33.jpg);
+  display: block;
+  margin: 0 auto;
+  text-indent: -9999px;
+  width: 160px;
+  height: 67px;
+}
+
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: 1em 0;
+
 }
+
 
 .footer-heading {
     font-size: 18px;
@@ -212,12 +227,12 @@ img{
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 38px;
     letter-spacing: -1px;
     line-height: 1;
 
     @include media-query($on-laptop) {
-        font-size: 36px;
+        font-size: 32px;
     }
 }
 
@@ -225,15 +240,15 @@ img{
     margin-bottom: $spacing-unit;
 
     h2 {
-        font-size: 32px;
+        font-size: 23px;
 
         @include media-query($on-laptop) {
-            font-size: 28px;
+            font-size: 18px;
         }
     }
 
     h3 {
-        font-size: 26px;
+        font-size: 16px;
 
         @include media-query($on-laptop) {
             font-size: 22px;
