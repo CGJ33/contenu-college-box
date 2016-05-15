@@ -45,7 +45,10 @@ Le groupe Environnement - Développement Durable a réfléchi sur le thème du g
 
 ## 2007-2008
 
-Le groupe Environnement - Développement Durable a réalisé [une vidéo](http://www.gironde.fr/jcms/c_18732/paysages-les-rives-de-garonne) qui retrace l'ensemble du travail de découverte des paysages des rives de la Garonne mené par les jeunes élus en collaboration avec l'Ecole Nationale Supérieure d'Architecture et du Paysage. Ce DVD peut être mis à la disposition des enseignants qui souhaitent sensibiliser leurs élèves à la question paysagère.
+Le groupe Environnement - Développement Durable a réalisé une vidéo qui retrace l'ensemble du travail de découverte des paysages des rives de la Garonne mené par les jeunes élus en collaboration avec l'Ecole Nationale Supérieure d'Architecture et du Paysage. Ce DVD peut être mis à la disposition des enseignants qui souhaitent sensibiliser leurs élèves à la question paysagère.
+
+<iframe width="560" height="315" src="http://cg33.systonic.net/WebTV/paysage_rives_garonne.flv" frameborder="0" allowfullscreen></iframe>
+
 
 ## 2005-2006
 
