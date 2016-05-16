@@ -3,7 +3,7 @@ layout: post
 title: "page d'accueil commission media et usages numériques"
 ---
 
-![logo commission](../images/iconeMediaNum.PNG)
+![logo commission](../../images/iconeMediaNum.PNG)
 
 ## MÉDIAS ET USAGES NUMÉRIQUES
 

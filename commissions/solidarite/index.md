@@ -3,7 +3,7 @@ layout: post
 Title: "page d'accueil commission solidarité"
 ---
 
-![logo commission](../images/iconeSolidarite.PNG)   
+![logo commission](../../images/iconeSolidarite.PNG)   
 
 ## SOLIDARITÉS ET LUTTE CONTRE LES DISCRIMINATIONS
 

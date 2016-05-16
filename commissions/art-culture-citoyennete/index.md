@@ -4,7 +4,7 @@ title:  "page d'accueil commission art culture et citoyenneté"
 categories: archives
 ---
 
-![logo commission](../images/cultureJeunesse.PNG)	
+![logo commission](../../images/cultureJeunesse.PNG)
 
 ## CULTURE ET JEUNESSES
 Appartenir  à  une  génération,  sensibiliser,  découvrir  et comprendre la culture. 
