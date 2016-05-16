@@ -6,13 +6,17 @@
   <body>
 
     {% include header.html %}
-
-    <main>
+<div class="post">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <main class="post-content">
         {{ content }}
     </main>
+
+</div>
 
     {% include footer.html %}
 
   </body>
 
 </html>
+

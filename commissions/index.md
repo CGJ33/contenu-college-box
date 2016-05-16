@@ -12,7 +12,7 @@ Parce que vivre au collège, c’est déjà vivre en société, les Conseillers 
 Le CDJ est un formidable outil de rassemblement des collégiens et d’apprentissage de la citoyenneté, une forme d’éducation civique appliquée à la réalité, qui se traduit par des actions concrètes, susceptibles d’améliorer la vie quotidienne des collégiens girondins.
 
 ## Le Conseil Départemental des Jeunes (CDJ), qu’est-ce que c’est ?
-![phot des conseillers jeunes](../images/vignette-cdj-2015.jpg)
+![photo des conseillers jeunes](../images/vignette-cdj-2015.jpg)
 En Gironde, l’apprentissage de la citoyenneté passe notamment par le Conseil Départemental des Jeunes. Vivre au collège, c’est déjà vivre en société. Les Conseillers départementaux jeunes représentent TOUS LES COLLÈGES DE GIRONDE et s’initient au travail collectif et à la vie publique. Le Conseil Départemental des Jeunes est un lieu de consultation des jeunes girondins. Les jeunes élus sont des ambassadeurs de leur génération.
 
 ## Son rôle
