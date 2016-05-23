@@ -8,12 +8,12 @@ Le projet CollegeBox est un projet super cool fait par le Conseil Départemental
 
 ## le boitier
 
-![illustration de la tablette](..images/collegeBox2.jpg) Conçu au départ avec une découpeuse laser, le boîtier qui enserre la tablette a été réalisé avec une fraiseuse numérique en prenant en compte dans la réflexion les futures contraintes permettant d'envisager son déploiement dans les collèges
+![illustration de la tablette](../images/collegeBox2.jpg) Conçu au départ avec une découpeuse laser, le boîtier qui enserre la tablette a été réalisé avec une fraiseuse numérique en prenant en compte dans la réflexion les futures contraintes permettant d'envisager son déploiement dans les collèges
 Le calcul des dimensions a donc du prendre en compte la nécessité d'accéder à la tablette pour la mettre à jour, insérer une carte SD
 hauteur de 46mm
 logiciel aspire
 découpe intérieure face avant 170,1 x 107
-![illustration de la découpe intérieure]({{site.baseurl}}/../images/20160512_191629.jpg) 
+![illustration de la découpe intérieure]({{site.baseurl}}/images/20160512_191629.jpg) 
 
 ## Le film
 
