@@ -10,5 +10,7 @@ published: true
 
 ## ENVIRONNEMENT ET DÉVELOPPEMENT DURABLE
 Comme  l’affirmait Albert Jacquart, comment « Développer un mode de vie  digne des hommes » et s’engager sur ce «chemin des possibles» par des idées nouvelles ?
+
 ### Les archives
+
 [Explorez les archives de la commission](archives/ "lien vers les archives")
