@@ -9,5 +9,7 @@ published: true
 ## MÉDIAS ET USAGES NUMÉRIQUES
 
 Faire un projet citoyen multimédia, sensibiliser à la démocratie par des pratiques numériques, quels usages de génération, comment communiquer et s’informer ?
+
 ### Les archives
+
 [Explorez les archives de la commission](archives/ "lien vers les archives")
