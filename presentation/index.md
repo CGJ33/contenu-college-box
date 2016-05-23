@@ -1,6 +1,7 @@
 ---
 layout: post
-Title : "Présentation projet college box"
+Title: Présentation projet college box
+published: true
 ---
 
 Le projet CollegeBox est un projet super cool fait par le Conseil Départemental des Jeunes en partenariat avec CapScience et d'autres gens cool !
@@ -16,9 +17,8 @@ découpe intérieure face avant 170,1 x 107
 
 ## Le film
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VgwcPiCjQ-0?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/167752731" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/167752731">CDJ2016m&eacute;dias_num&eacute;riques version tablette</a> from <a href="https://vimeo.com/user866388">keronos</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## Making-off de la College Box
 
 [Plans de la CollegeBox (mauvais lien)](https://github.com/CGJ33/contenu-college-box)
-
