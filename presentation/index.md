@@ -3,7 +3,6 @@ layout: post
 Title: Présentation projet college box
 published: true
 ---
-
 ## Un boitier par des collégiens pour des collégiens
 
 ![illustration de la découpe intérieure]({{site.baseurl}}/images/20160512_191525.jpg) 
