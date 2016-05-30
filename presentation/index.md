@@ -25,6 +25,7 @@ Si le projet se poursuit, il sera certainement intéressant de concevoir un vér
 La conception du site Internet a été réfléchie avec les collégiens qui souhaitaient notamment pouvoir mettre à disposition de leurs camarades des informations pratiques sur la vie du collège.
 Pour cela, @dbruant qui a accompagné les membres de la commission pendant 2 séances de travail a proposé de travailler à partir d'un générateur de pages html (Jekyll) qui fonctionne à partir de pages mises en forme à partir d'une syntaxe de mise en forme tr!ès simple : markdown.
 Grâce à l'utilisation de cette syntaxe, les fichiers déposés sur l'outil de gestion de code informatique Github, peuvent êter très simplement mis à jour sans aucune connaissance du code informatique.
+
 De plus, grâce à l'utilisation de l'outil en ligne prose.io il est possible de visualiser le contenu du fichier en markdown et de disposer de quelques outils de mise en page qui simplifient encore plus la contribution.
 
 ## le boitier
@@ -46,8 +47,12 @@ La conception du boîtier a été réalisée avec le logiciel  aspire avec deux 
 
 ## Le film
 
+Un film a été réalisé avec l'équipe vidéo du service de la communication interne du Département de la Gironde a partir d'un scenario imaginé par les collégiens de la commission médias et usages numériques pour témoigner de leur expérience et donner envie à d'autres collégiens de vivre une expérience similaire. 
+Il se déroule dans le fablab de cap sciences et au foyer rural des Eglisottes.
+
 <iframe src="https://player.vimeo.com/video/167752731" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/167752731">CDJ2016m&eacute;dias_num&eacute;riques version tablette</a> from <a href="https://vimeo.com/user866388">keronos</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-## Making-off de la College Box
+## Remerciements
 
-[Plans de la CollegeBox (mauvais lien)](https://github.com/CGJ33/contenu-college-box)
+Merci à Adeline Bourgeois pour son enthousiasme et son énergie, à Clément et Maud pour la qualité de leur accueil au fablab, à Laurent Domenech pour la réalisation du boitier, à Anne Briant, Rémi Lamouret et Roberto pour la prise de vue et le montage vidéo et aux animateurs de la commission.
+
