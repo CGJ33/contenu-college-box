@@ -6,6 +6,8 @@ published: true
 
 ## Un boitier par des collégiens pour des collégiens
 
+![illustration de la découpe intérieure]({{site.baseurl}}/images/20160512_191525.jpg) 
+
 Le projet CollegeBox vise à fournir dans les collèges des informations au sujet de la vie du collège (menu de la cantine, professeurs absents, plan de déplacement, etc...) mais également sur le rôle de conseiller départemental des jeunes.
 Les membres de la commission médias et usages numériques ont imaginé différents contenus qui pourraient être utiles aux nouveaux ciollégiens comme à leur camarades. ils ont également souhaité témoigné de leur expérience et donner envie à d'autres collégiens de les imiter.
 Pour réaliser ce dispositif numérique 3 composants ont été identifié : 
@@ -32,6 +34,8 @@ De plus, grâce à l'utilisation de l'outil en ligne prose.io il est possible de
 
 Conçu au départ avec une découpeuse laser, le boîtier qui enserre la tablette a été réalisé avec une fraiseuse numérique en prenant en compte dans la réflexion les futures contraintes permettant d'envisager son déploiement dans les collèges.
 
+![illustration de la découpe intérieure]({{site.baseurl}}/images/20160509_171229.jpg) 
+
 La première version du boîtier a été réalisée dans le fablab de Cap Sciences, le 127°.
 Il a été réalisé à partir d'un outil de dessin vectoriel et d'une découpaeuse laser.
 les collégiens ont ensuite assemblé les différentes pièces et intégré la tablette à l'intérieur.
@@ -40,7 +44,7 @@ En réalisant ce prototype, il sont pu prendre conscience de certaines difficult
 
 Dans un second temps, la forme du boîtier a donc été repensée pour pouvoir être plus solide et donner un accès simple à l'écran tactile tout en permettant facilement d'être relié au chargeur externe. 
 Le calcul des dimensions a également du prendre en compte la nécessité d'accéder à la tablette pour la mettre à jour, insérer une carte SD et laisser une ventilation pour le son et la musique. Il a également paru pertinent de maintenir un accès à la caméra frontale.
-
+![illustration de la découpe intérieure]({{site.baseurl}}/images/20160512_191603.jpg) 
 La conception du boîtier a été réalisée avec le logiciel  aspire avec deux blocs découpés dans des planches de peuplier de 18 mm d'épaisseur.
 
 ![illustration de la découpe intérieure]({{site.baseurl}}/images/20160512_191629.jpg) 
