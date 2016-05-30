@@ -20,6 +20,10 @@ En Gironde, l’apprentissage de la citoyenneté passe notamment par le Conseil 
 Le Conseil Départemental des Jeunes permet aux collégiens girondins d’exercer leurs droits et leurs devoirs de citoyens en devenir par la réalisation d’actions concrètes.
 C’est un lieu de réflexion, de discussion et d’action, de découverte et d’apprentissage de la vie civique et de la démocratie locale.
 
+## Candidater
+
+[C'est par là !](./electionCDJ.html)
+
 ## Commissions
 
 Les conseillers départementaux du Conseil départemental des Jeunes de Gironde, élus pour un mandat d'un an se répartissent en commissions pour travailler sur des projets dont ils sont à l'initiative.

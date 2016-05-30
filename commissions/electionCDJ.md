@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Comment être candidat ?"
 categories: présentation
