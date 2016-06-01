@@ -6,10 +6,11 @@ published: true
 ## But
 
 On a créé cette collège box pour
--aider les 6ème et les nouveaux élèves à se repérer dans le collège
--Elle dira sur le site Internet les emplois du temps, les menus de la cantine, les professeurs absents, une vidéo qui montrera les étapes de fabrication de la box, la vie dans un internat
--montrer ce que c'est de participer au CDJ
--montrer la vidéo pour expliquer la fabrication de la box
+
+* aider les 6ème et les nouveaux élèves à se repérer dans le collège
+* Elle dira sur le site Internet les emplois du temps, les menus de la cantine, les professeurs absents, une vidéo qui montrera les étapes de fabrication de la box, la vie dans un internat
+* montrer ce que c'est de participer au CDJ
+* montrer la vidéo pour expliquer la fabrication de la box
 
 ## Pour refaire soi-même
 
