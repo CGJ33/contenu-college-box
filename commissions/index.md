@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "C'est quoi le Conseil départemental des Jeunes de Gironde"
-date:   2016-06-10 00:18:47
+title: "C'est quoi le Conseil départemental des Jeunes de Gironde"
+date: {}
 categories: présentation
+published: true
 ---
 
 ## Pour une citoyenneté active des jeunes
@@ -21,6 +22,15 @@ Le Conseil Départemental des Jeunes permet aux collégiens girondins d’exerce
 C’est un lieu de réflexion, de discussion et d’action, de découverte et d’apprentissage de la vie civique et de la démocratie locale.
 
 ## Candidater
+Pourquoi candidater ?
+
+Quelques témoiganges des collégiens de la commision médias et usages numériques
+
+<iframe src="https://player.vimeo.com/video/168909755" width="640" height="1136" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/168909152" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/168909150" width="640" height="1136" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 [C'est par là !](./electionCDJ.html)
 
