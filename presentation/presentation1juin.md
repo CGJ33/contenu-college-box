@@ -10,14 +10,16 @@ On a créé cette collège box pour
 -montrer ce que c'est de participer au CDJ
 -montrer la vidéo pour expliquer la fabrication de la box
 
+## Pour refaire soi-même
+
+<iframe src="https://player.vimeo.com/video/167752731" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Conclusion
 
 Nous espérons que ce projet vous aura intéressé
 Nous en tout cas on a passé de bons moments enrichissants
 
-Si vous avez des questions nous serons heureux d'y répondre
+Si vous avez des questions nous serons heureux d'y répondre :)
 
-## Pour refaire soi-même
 
-<iframe src="https://player.vimeo.com/video/167752731" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
