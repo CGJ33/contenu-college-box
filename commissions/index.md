@@ -49,6 +49,7 @@ Vous pouvez découvrir les comptes-rendus des travaux de l'année 2016 de chacun
 * [solidarité](solidarite/)
 * [arts et culture](art-culture-citoyennete/)
 * [médias et usages numériques](media-usages-numerique/)
+* [citoyenneté européenne](citoyennete/)
 
 Vous pouvez également consulter les archives des travaux de chacune de ces commissions :
 
