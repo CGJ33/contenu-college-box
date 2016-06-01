@@ -1,6 +1,7 @@
 ---
 layout: post
-Title : Présentation de la commission citoyenneté 
+title: "Présentation de la commission citoyenneté "
+published: true
 ---
 
 ## Présentation du travail de la commission 2016
