@@ -6,6 +6,6 @@ layout: default
 
 Dates   |   Lundi    |   Mardi   |   Mercredi   |   Jeudi    |   Vendredi   |
 --------|------------|-----------|--------------|------------|--------------|
-Semaine 1 |   frites | carottes  |     quiche   |    papier  | blabla       |
-Semaine 2 |    frites | carottes  |     quiche   |    papier  | blabla       |
-Semaine 3 |     frites | carottes  |     quiche   |    papier  | blabla       |
+Semaine 1 |   frites | poulet  |     quiche   |    papier  | blabla       |
+Semaine 2 |    frites | hamburger  |     quiche   |    papier  | blabla       |
+Semaine 3 |     frites | lasagnes  |     quiche   |    papier  | blabla       |
