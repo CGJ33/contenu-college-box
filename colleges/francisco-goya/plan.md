@@ -1,5 +1,10 @@
 ---
 layout: default
+published: true
 ---
 
-![Plan collège](http://www.clg-faverney.ac-besancon.fr/sites/www.clg-faverney/IMG/jpg/plan_college-2.jpg)
+##
+
+EN COURS DE CONSTRUCTION
+![logo]({{site.baseurl}}/colleges/francisco-goya/CDJ couleurs.png)
+
