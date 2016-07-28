@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C'est quoi le Conseil départemental des Jeunes de Gironde"
+title: C'est quoi le Conseil départemental des Jeunes de Gironde
 date: {}
 categories: présentation
 published: true
@@ -26,11 +26,8 @@ Pourquoi candidater ?
 
 Quelques témoiganges des collégiens de la commision médias et usages numériques
 
-<iframe src="https://player.vimeo.com/video/168909755" width="640" height="1136" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+(en cours de construction)
 
-<iframe src="https://player.vimeo.com/video/168909152" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-<iframe src="https://player.vimeo.com/video/168909150" width="640" height="1136" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 [C'est par là !](./electionCDJ.html)
 
