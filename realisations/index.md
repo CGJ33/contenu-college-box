@@ -1,6 +1,6 @@
 ---
-layout: post
 Title: Page d'accueil des réalisations du CDJ33
+layout: default
 published: true
 ---
 <h1>les realisations du CDJ33</h1>
