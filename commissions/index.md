@@ -27,6 +27,8 @@ Pourquoi candidater ?
 Quelques témoiganges des collégiens de la commision médias et usages numériques
 
 **(en cours de construction)**
+![Photo week-end CDJ prend le large]({{site.baseurl}}/commissions/2016-05-21%2011.08.52.jpg)![2016-05-21 11.08.52.jpg]({{site.baseurl}}/commissions/2016-05-21 11.08.52.jpg)
+
 
 
 [C'est par là !](./electionCDJ.html)
