@@ -9,7 +9,7 @@ published: true
         <a href="./videos.md">
             <span>LES VIDÉOS</span>
         </a>
-        <a href="./affiches.md">
+        <a href="{{site.baseurl}}/realisations/affiches.md">
             <span>LES AFFICHES</span>
         </a>
     </div>
