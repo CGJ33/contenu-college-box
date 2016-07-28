@@ -2,7 +2,7 @@
 layout: post
 title: Les affiches
 date: {}
-categories: présentation
+categories: presentation
 published: true
 ---
 ## page en cours de construction
