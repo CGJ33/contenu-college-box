@@ -17,8 +17,5 @@ published: true
         <a href="./projets.html">
             <span>TOUS LES PROJETS</span>
         </a>
-         <a href="./video.htm">
-            <span>TROP FORTE</span>
-        </a>
-    </div>
+           </div>
 </nav>
