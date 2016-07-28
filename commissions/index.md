@@ -26,7 +26,7 @@ Pourquoi candidater ?
 
 Quelques témoiganges des collégiens de la commision médias et usages numériques
 
-(en cours de construction)
+**(en cours de construction)**
 
 
 [C'est par là !](./electionCDJ.html)
