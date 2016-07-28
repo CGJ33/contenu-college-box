@@ -6,7 +6,7 @@ published: true
 <h1>les realisations du CDJ33</h1>
 <nav class="main-menu"> 
     <div class="row">
-        <a href="./videos.md">
+        <a href="./video.md">
             <span>LES VIDÉOS</span>
         </a>
         <a href="{{site.baseurl}}/realisations/affiches.html">
