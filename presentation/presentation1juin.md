@@ -3,6 +3,8 @@ layout: post
 Title: Présentation projet college box à la pleinière du 1er juin
 published: true
 ---
+## formation
+
 ## But
 
 On a créé cette collège box pour
@@ -22,6 +24,3 @@ Nous espérons que ce projet vous aura intéressé
 Nous en tout cas on a passé de bons moments enrichissants
 
 Si vous avez des questions nous serons heureux d'y répondre :)
-
-
-
