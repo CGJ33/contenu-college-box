@@ -14,7 +14,7 @@ published: true
         </a>
     </div>
     <div class="row">
-        <a href="./projets.md">
+        <a href="./projets.html">
             <span>TOUS LES PROJETS</span>
         </a>
     </div>
