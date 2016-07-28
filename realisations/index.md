@@ -3,18 +3,18 @@ layout: post
 Title: Page d'accueil des réalisations du CDJ33
 published: true
 ---
-<h1>{{ site.college.nom }}</h1>
+<h1>les realisations du CDJ33</h1>
 <nav class="main-menu"> 
     <div class="row">
-        <a href="./plan.html">
+        <a href="./videos.md">
             <span>LES VIDÉOS</span>
         </a>
-        <a href="./menu-cantine.html">
+        <a href="./affiches.md">
             <span>LES AFFICHES</span>
         </a>
     </div>
     <div class="row">
-        <a href="./profs-absents.html">
+        <a href="./projets.md">
             <span>TOUS LES PROJETS</span>
         </a>
     </div>
