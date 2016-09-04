@@ -13,7 +13,7 @@ On a créé cette collège box pour
 * montrer la vidéo pour expliquer la fabrication de la box
 
 ## Pour refaire soi-même
-Il y a plus de détails sur <a href="index.md">la page de description technique du boîtier</a>.
+Il y a plus de détails sur <a href="index.html">la page de description technique du boîtier</a>.
 
 Ce film raconte l'histoire des différents lieux qui on accompagné note session de conseiller départemental  et la mystérieuse disparition d'une de nos camarades...
 
